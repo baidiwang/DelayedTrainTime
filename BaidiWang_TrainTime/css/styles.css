@@ -1,0 +1,59 @@
+#mychart {
+  max-width: 600px;
+  margin: auto;
+  color: white;
+  background-color: white;
+  padding: 20px;
+}
+
+
+body {
+  background-color: black;
+  text: white;
+}
+
+
+#redblock {
+  text-align:center;
+  margin: auto;
+}
+
+
+h1 {font-size: 50px;
+  max-width: 730px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  font-family: 'Anton', sans-serif;
+}
+
+
+h2 {font-size: 20px;
+  max-width: 120px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  font-family: 'Anton', sans-serif;
+}
+
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+}
+
+.image {
+  margin: auto;
+}
+
+.caption {
+  font-family: "Arial", sans-serif;
+  max-width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+  color: grey;
+  margin: auto;
+}
